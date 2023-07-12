@@ -4,9 +4,9 @@
 
 [中文](./README.md) | [English](./README_EN.md) | 日本語
 
-プライベート ChatGPT + Midjourney ウェブアプリケーションをワンクリックで無料デプロイ（[ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) 開発をベースにしています）
+プライベート ChatGPT + Midjourney ウェブアプリケーションをワンクリックで無料デプロイ（[ChatGPT-Next-Web](https://github.com/guzhaoyue/ChatGPT-Midjourney) 開発をベースにしています）
 
-[QQ グループ](https://github.com/Licoy/ChatGPT-Midjourney/issues/30) | [プレミアムバージョン](https://github.com/Licoy/ChatGPT-Midjourney-Pro)
+[QQ グループ]() | [プレミアムバージョン](https://github.com/guzhaoyue/ChatGPT-Midjourney)
 
 [![Deploy with Vercel](https://img.shields.io/badge/Vercel-Deploy-00CCCC.svg?logo=vercel)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FLicoy%2FChatGPT-Midjourney&env=OPENAI_API_KEY&env=MIDJOURNEY_PROXY_URL&env=CODE&project-name=chatgpt-midjourney&repository-name=ChatGPT-Midjourney)
 [![Deploy with Railway](https://img.shields.io/badge/MidjourneyProxy-RailwayDeploy-009900.svg?logo=railway)](https://github.com/novicezk/midjourney-proxy/blob/main/docs/railway-start.md)
@@ -102,7 +102,7 @@ docker run -d --name midjourney-proxy \
 - あなたの発見を待っています
 
 ## 謝辞
-- [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web)
+- [ChatGPT-Next-Web](https://github.com/guzhaoyue/ChatGPT-Midjourney)
 - [midjourney-proxy](https://github.com/novicezk/midjourney-proxy)
 
 ## オープンソース規約

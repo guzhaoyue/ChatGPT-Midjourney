@@ -4,9 +4,9 @@
 
 [中文](./README.md) | English | [日本語](./README_JA.md)
 
-One-click free deployment of your private ChatGPT+Midjourney web application (based on [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) development)
+One-click free deployment of your private ChatGPT+Midjourney web application (based on [ChatGPT-Next-Web](https://github.com/guzhaoyue/ChatGPT-Midjourney) development)
 
-[QQ Group](https://github.com/Licoy/ChatGPT-Midjourney/issues/30) | [PRO VERSION](https://github.com/Licoy/ChatGPT-Midjourney-Pro)
+[QQ Group]() | [PRO VERSION](https://github.com/guzhaoyue/ChatGPT-Midjourney)
 
 [![Deploy with Vercel](https://img.shields.io/badge/Vercel-Deploy-00CCCC.svg?logo=vercel)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FLicoy%2FChatGPT-Midjourney&env=OPENAI_API_KEY&env=MIDJOURNEY_PROXY_URL&env=CODE&project-name=chatgpt-midjourney&repository-name=ChatGPT-Midjourney)
 [![Deploy with Railway](https://img.shields.io/badge/MidjourneyProxy-RailwayDeploy-009900.svg?logo=railway)](https://github.com/novicezk/midjourney-proxy/blob/main/docs/railway-start.md)
@@ -104,7 +104,7 @@ Enter your painting description starting with `/mj` in the input box to create a
 - Waiting for you to discover
 
 ## Acknowledgments
-- [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web)
+- [ChatGPT-Next-Web](https://github.com/guzhaoyue/ChatGPT-Midjourney)
 - [midjourney-proxy](https://github.com/novicezk/midjourney-proxy)
 
 ## Open source agreement
